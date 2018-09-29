@@ -11,6 +11,6 @@ array.each do |number|
   # output is pushed into a new array
 end 
 # output is the new array, which are the squared numbers 
-new_numbers
+new_array
 end 
 
